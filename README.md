@@ -7,6 +7,8 @@ This thesis addresses the problem of:
 
 The model is expected to generalize well to diverse crop types and field conditions while utilizing the full spectral depth of satellite images.
 
+(Sickle Dataset) [https://drive.google.com/file/d/1SQDCeX3GCUwPoZFocLNMAs8Ab1-pi_H3/view?usp=drive_link]
+
 The primary objectives of this thesis are as follows:
 1. To explore and preprocess multispectral satellite images for field-level crop detection.
 2. To implement a CNN-based deep learning model tailored for 6-band .tif imagery.
